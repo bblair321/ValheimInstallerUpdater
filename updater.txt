@@ -1,0 +1,12 @@
+;aiu;
+
+[Update]
+Name = ValheimModInstaller
+ProductVersion = 1.0.0.0
+URL = https://api.github.com/repos/bblair321/ValheimInstallerUpdater/releases
+Size = 6256537
+SHA256 = 5A90D0BEF3C18378473B039EF1B1D94305BE0C1614226DF6D0E89A870CEE8D28
+MD5 = 2cfcb1988e8088414f957efdc3deb564
+ServerFileName = ValheimModInstaller.exe
+RegistryKey = HKUD\Software\Bblair321\ValheimModInstaller\Version
+Version = 1.0.0.0
